@@ -10,7 +10,7 @@ I'm Ei Sandy Phyo👩🏻‍💻.
 
 > Front end developer with strong logical thinking 
 
-> Goot at problem solving skill
+> Good at problem solving skill
 
 > Creation of modern web design
 
