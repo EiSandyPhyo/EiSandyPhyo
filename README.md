@@ -8,7 +8,7 @@ My name is Ei Sandy Phyo🐰.
 <!--![Hardworking Programmer Girl](hardworkinggirl.gif)-->
 
 <p align="center">
-  <img width="460" height="300" src="hardworkinggirl.gif">
+  <img width="480" height="300" src="hardworkinggirl.gif">
 </p>
 
 > People closest to a problem typically know the most about it.
