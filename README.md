@@ -4,7 +4,13 @@
 **EiSandyPhyo/EiSandyPhyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 My name is Ei Sandy Phyo🐰.
-![Hardworking Programmer Girl](hardworkinggirl.gif)
+
+<!--![Hardworking Programmer Girl](hardworkinggirl.gif)-->
+
+<p align="center">
+  <img width="460" height="300" src="hardworkinggirl.gif">
+</p>
+
 > People closest to a problem typically know the most about it.
 <!--
 - 🔭 I’m currently working on ...
