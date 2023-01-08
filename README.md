@@ -5,6 +5,7 @@
 
 My name is Ei Sandy Phyo🐰.
 ![Hardworking Programmer Girl](hardworkinggirl.gif)
+> People closest to a problem typically know the most about it.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
