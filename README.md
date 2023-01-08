@@ -1,9 +1,6 @@
-# Hi there 👋
+# About Me 👋
 
-<!--
-**EiSandyPhyo/EiSandyPhyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-My name is Ei Sandy Phyo🐰.
+I'm Ei Sandy Phyo👩🏻‍💻.
 
 <!--![Hardworking Programmer Girl](hardworkinggirl.gif)-->
 
@@ -11,7 +8,13 @@ My name is Ei Sandy Phyo🐰.
   <img width="300" height="230" src="hardworkinggirl.gif">
 </p>
 
-> People closest to a problem typically know the most about it.
+> Front end developer with strong logical thinking 
+
+> Goot at problem solving skill
+
+> Creation of modern web design
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
