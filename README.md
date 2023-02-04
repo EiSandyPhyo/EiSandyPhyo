@@ -1,6 +1,6 @@
 # About Me 👋
 
-I'm Ei Sandy Phyo👩🏻‍💻.
+I'm Ei Sandy Phyo.
 
 <!--![Hardworking Programmer Girl](hardworkinggirl.gif)-->
 
