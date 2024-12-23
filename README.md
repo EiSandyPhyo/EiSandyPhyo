@@ -15,8 +15,7 @@ I'm Ei Sandy Phyo.
 > Creation of modern web design
 
 ## 🔗 Links
-[![portfolio]]([https://katherineoelsner.com/](https://portfolio-eisandyphyo.vercel.app/))
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
