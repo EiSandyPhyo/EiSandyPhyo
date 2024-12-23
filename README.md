@@ -2,6 +2,9 @@
 
 I'm Ei Sandy Phyo.
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-eisandyphyo.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ei-sandy-phyo-40b64917a/)
+
 <!--![Hardworking Programmer Girl](hardworkinggirl.gif)-->
 
 <p align="left">
@@ -13,10 +16,6 @@ I'm Ei Sandy Phyo.
 > Good at problem solving skill
 
 > Creation of modern web design
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-eisandyphyo.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ei-sandy-phyo-40b64917a/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
