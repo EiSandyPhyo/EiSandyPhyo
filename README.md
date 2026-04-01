@@ -3,11 +3,9 @@
 I’m Ei Sandy Phyo, a passionate software developer currently pursuing an MSc in Computing Science at Edinburgh Napier University.
 Interested in full-stack web development, building real-world applications, and continuously improving my technical skills.
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-eisandyphyo.vercel.app/)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-eisandyphyo.vercel.app/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ei-sandy-phyo-40b64917a/)
-[![Instagram](https://img.shields.io/badge/Instagram-D62261?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/ei-sandy-phyo-40b64917a/)
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-D62261?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eisandyphyo_tartarlay/)
 
 
 <!-- 
