@@ -28,7 +28,6 @@ Interested in full-stack web development, building real-world applications, and 
     <img src="https://img.shields.io/badge/Gmail-D64B3E?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<br>
 
 ---
 
