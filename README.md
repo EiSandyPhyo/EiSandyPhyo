@@ -4,14 +4,15 @@ I’m Ei Sandy Phyo, a passionate software developer currently pursuing an MSc i
 Interested in full-stack web development, building real-world applications, and continuously improving my technical skills.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-eisandyphyo.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ei-sandy-phyo-40b64917a/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ei-sandy-phyo-40b64917a/)
 [![Instagram](https://img.shields.io/badge/Instagram-D62261?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/ei-sandy-phyo-40b64917a/)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
 
-<!-- ![test](https://img.shields.io/badge/-test-blue?logo=linkedin)
+<!-- 
+https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+![test](https://img.shields.io/badge/-test-blue?logo=linkedin)
 ![Hardworking Programmer Girl](hardworkinggirl.gif)-->
 
 <!-- <p align="left">
