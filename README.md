@@ -33,21 +33,19 @@ Interested in full-stack web development, building real-world applications, and 
 
 ## 📌 Featured Projects
 
-<div align="">
-
+<p align="left">
   <a href="https://github.com/EiSandyPhyo/weather-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EiSandyPhyo&repo=weather-dashboard&theme=tokyonight" />
+    <img src="https://github-readme-stats-nu-eight-29.vercel.app/api/pin/?username=EiSandyPhyo&repo=weather-dashboard&theme=tokyonight&v=4" />
   </a>
 
   <a href="https://github.com/EiSandyPhyo/react-fullscreen-scroll-testing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EiSandyPhyo&repo=react-fullscreen-scroll-testing&theme=tokyonight" />
+    <img src="https://github-readme-stats-nu-eight-29.vercel.app/api/pin/?username=EiSandyPhyo&repo=react-fullscreen-scroll-testing&theme=tokyonight&v=4" />
   </a>
 
   <a href="https://github.com/EiSandyPhyo/mini-file-upload-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EiSandyPhyo&repo=mini-file-upload-app&theme=tokyonight" />
+    <img src="https://github-readme-stats-nu-eight-29.vercel.app/api/pin/?username=EiSandyPhyo&repo=mini-file-upload-app&theme=tokyonight&v=4" />
   </a>
-
-</div>
+</p>
 
 ---
 
